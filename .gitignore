@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/obj
+/SampleApplication/obj
+/ChartApp/obj
+/SampleApplication/bin
+/ChartAppLib/bin
+
+[Bb]in/
+[Oo]bj/
