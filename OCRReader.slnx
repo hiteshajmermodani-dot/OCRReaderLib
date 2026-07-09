@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OCRReader/OCRReader.csproj" />
+  <Project Path="OCRReaderLib/OCRReaderLib.csproj" Id="40cc899a-53a7-498c-b9f5-cc0fa8a65ad1" />
+</Solution>
