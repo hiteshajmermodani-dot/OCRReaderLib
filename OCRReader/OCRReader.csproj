@@ -11,7 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OCRReaderLib\OCRReaderLib.csproj" />
+    <PackageReference Include="OCRReaderLib" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
